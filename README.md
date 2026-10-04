@@ -1,6 +1,18 @@
 ![GitHub Banner](./banner.png)
 
+<h2>🛠️ Languages & Technologies</h2>
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,sql" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=langchain,git,docker,fastapi,streamlit" />
+</p>
 # Hi, I'm Vipul Gupta 👋
 
 ### Final Year B.Tech CSE | AI/ML & GenAI Enthusiast
