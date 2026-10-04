@@ -1,3 +1,6 @@
+![GitHub Banner](./banner.png)
+
+
 # Hi, I'm Vipul Gupta 👋
 
 ### Final Year B.Tech CSE | AI/ML & GenAI Enthusiast
