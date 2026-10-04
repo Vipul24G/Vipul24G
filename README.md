@@ -9,38 +9,27 @@ I'm a Computer Science Engineering student passionate about
 Artificial Intelligence, Machine Learning and Generative AI.
 I enjoy building practical AI applications using LLMs, RAG,
 LangGraph and AI Agents.
-<h2>🛠️ Languages & Technologies</h2>
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,sql,pytorch,tensorflow,sklearn,langchain,git,docker,fastapi,streamlit" />
+<p align="center">
+  <img src="./skills-card (3).svg" width="800" alt="ML, Agentic AI, GenAI, Problem Solving"/>
 </p>
 
+<h2>🛠️ Languages & Technologies</h2>
 
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,js,mysql,tensorflow,sklearn,opencv,git,github,docker,fastapi" />
+</p>
 
-## 🚀 What I'm Working On
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
-- 🤖 AI Agents & Multi-Agent Systems
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 🧠 LangGraph & LangChain
-- 📊 Machine Learning & Deep Learning
-- 💻 Data Structures & Algorithms
+<p align="center">
+  <sub>Machine Learning • Deep Learning • NLP • Computer Vision • LLMs • RAG • AI Agents</sub>
+</p>
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-Python • C++ • JavaScript • SQL
-
-### AI / ML
-Machine Learning • Deep Learning • NLP • Computer Vision
-
-### Generative AI
-LLMs • RAG • LangChain • LangGraph • AI Agents
-
-### Tools
-Git • GitHub • Docker • FastAPI • Streamlit
 
 ---
 
